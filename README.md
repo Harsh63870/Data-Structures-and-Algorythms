@@ -4,4 +4,4 @@
 # Harsh Vardhan Pandey.
 
 
-# I made it private and integrated it with github to lean about Version Control System.
+# I made it private and integrated it with github to learn about Version Control System.
