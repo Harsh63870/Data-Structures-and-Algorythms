@@ -12,7 +12,7 @@ class sol{
             vector<int> result;\
 
             //  edge case handling 
-            if(nums.empty())  return; // asked by google to do
+            if(nums.empty())  return; 
             int K = k%(nums.size());
             for(int i=K;i<nums.size();i++){ // O(n-k)
                 result.push_back(nums[i]);
